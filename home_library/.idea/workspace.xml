@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3df770f3-1378-4c16-bf58-edf7042376a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="home_library: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="home_library: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="home_library: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="book: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="home_library: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="reader: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zvp6q0MDHbGEg0PgC3G4IxqVv4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grokhotov.homeLibrary.App" />
+      <module name="home_library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grokhotov.homeLibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5888e684" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3df770f3-1378-4c16-bf58-edf7042376a8" name="Default Changelist" comment="" />
+      <created>1585729249455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585729249455</updated>
+      <workItem from="1585729251100" duration="16449000" />
+      <workItem from="1585914597339" duration="5435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585744449243">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="375" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1585744449243" />
+    <state x="1638" y="292" key="#com.intellij.ide.util.MemberChooser" timestamp="1585925241827">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1638" y="292" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1057@0.23.2560.1057" timestamp="1585925241827" />
+    <state width="1236" height="248" key="GridCell.Tab.0.bottom" timestamp="1585931015813">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1236" height="248" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1585931015813" />
+    <state width="1236" height="248" key="GridCell.Tab.0.center" timestamp="1585931015811">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1236" height="248" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1585931015811" />
+    <state width="1236" height="248" key="GridCell.Tab.0.left" timestamp="1585931015811">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1236" height="248" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1585931015811" />
+    <state width="1236" height="248" key="GridCell.Tab.0.right" timestamp="1585931015812">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1236" height="248" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1585931015812" />
+    <state x="329" y="23" key="SettingsEditor" timestamp="1585923084330">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="329" y="23" key="SettingsEditor/0.23.2560.1057@0.23.2560.1057" timestamp="1585923084330" />
+    <state x="871" y="447" width="934" height="619" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585854172206">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="871" y="447" width="934" height="619" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1585854172206" />
+    <state x="641" y="208" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1585729540204">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="641" y="208" key="com.intellij.database.view.ui.DbObjectDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1585729540204" />
+    <state x="553" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585923078562">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="553" y="342" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1057@0.23.2560.1057" timestamp="1585923078562" />
+    <state x="1490" y="317" key="search.everywhere.popup" timestamp="1585848773822">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1490" y="317" key="search.everywhere.popup/0.23.2560.1057@0.23.2560.1057" timestamp="1585848773822" />
+  </component>
+</project>

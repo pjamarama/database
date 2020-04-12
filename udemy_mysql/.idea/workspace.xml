@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5e0b63f-4ccc-40d6-ad6f-0744a1577e0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="employees: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="routines" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a56cRH36zaDCn7pu8DQai6blE8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.TransactionDemo">
+    <configuration name="InOutParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storedProcedures.InOutParameter" />
+      <module name="udemy_mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="storedProcedures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storedProcedures.InParameter" />
+      <module name="udemy_mysql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storedProcedures.OutParameter" />
+      <module name="udemy_mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="storedProcedures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoredProcResultSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storedProcedures.StoredProcResultSet" />
+      <module name="udemy_mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="storedProcedures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="transactions.TransactionDemo" />
+      <module name="udemy_mysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="transactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransactionDemo" />
+        <item itemvalue="Application.StoredProcResultSet" />
+        <item itemvalue="Application.OutParameter" />
+        <item itemvalue="Application.InOutParameter" />
+        <item itemvalue="Application.InParameter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17782027" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5a0df2e4" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e0b63f-4ccc-40d6-ad6f-0744a1577e0c" name="Default Changelist" comment="" />
+      <created>1586013186340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586013186340</updated>
+      <workItem from="1586013187713" duration="590000" />
+      <workItem from="1586103725161" duration="16054000" />
+      <workItem from="1586464718439" duration="1437000" />
+      <workItem from="1586505096033" duration="343000" />
+      <workItem from="1586505481141" duration="2704000" />
+      <workItem from="1586688128359" duration="8346000" />
+      <workItem from="1586705741090" duration="1359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586505387953">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="248" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1586505387953" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1586194852205">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.23.2560.1057@0.23.2560.1057" timestamp="1586194852205" />
+    <state width="1154" height="263" key="GridCell.Tab.0.bottom" timestamp="1586714969058">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1154" height="263" key="GridCell.Tab.0.bottom/0.23.2560.1057@0.23.2560.1057" timestamp="1586714969058" />
+    <state width="1154" height="263" key="GridCell.Tab.0.center" timestamp="1586714969057">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1154" height="263" key="GridCell.Tab.0.center/0.23.2560.1057@0.23.2560.1057" timestamp="1586714969057" />
+    <state width="1154" height="263" key="GridCell.Tab.0.left" timestamp="1586714969056">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1154" height="263" key="GridCell.Tab.0.left/0.23.2560.1057@0.23.2560.1057" timestamp="1586714969056" />
+    <state width="1154" height="263" key="GridCell.Tab.0.right" timestamp="1586714969058">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1154" height="263" key="GridCell.Tab.0.right/0.23.2560.1057@0.23.2560.1057" timestamp="1586714969058" />
+    <state width="219" height="457" key="HiddenNamespacesPopup" timestamp="1586104045777">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="219" height="457" key="HiddenNamespacesPopup/0.23.2560.1057@0.23.2560.1057" timestamp="1586104045777" />
+    <state x="183" y="173" key="SettingsEditor" timestamp="1586505302194">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="183" y="173" key="SettingsEditor/0.23.2560.1057@0.23.2560.1057" timestamp="1586505302194" />
+    <state x="473" y="379" width="423" height="334" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1586195301212">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="473" y="379" width="423" height="334" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1586195301212" />
+    <state x="325" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1586505483666">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="325" y="368" key="com.intellij.ide.util.TipDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1586505483666" />
+    <state x="421" y="492" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586107336388">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="421" y="492" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1057@0.23.2560.1057" timestamp="1586107336388" />
+    <state x="1023" y="314" key="extract.method.dialog" timestamp="1586190252595">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="1023" y="314" key="extract.method.dialog/0.23.2560.1057@0.23.2560.1057" timestamp="1586190252595" />
+  </component>
+</project>
