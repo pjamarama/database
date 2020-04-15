@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SqlDialectMappings">
-    <file url="file://$USER_HOME$/Downloads/jdbc-mysql-course-source-code-v2/README.TXT" dialect="MySQL" />
-    <file url="file://$USER_HOME$/Downloads/jdbc-mysql-course-source-code-v2/lecture-03-setting-up-dev-environment/jdbc-test/sql/table-setup.sql" dialect="MySQL" />
-    <file url="file://$USER_HOME$/Downloads/jdbc-mysql-course-source-code-v2/lecture-09-stored-procedures-part-1/jdbc-stored-procedures-tutorial/sql/table-setup.sql" dialect="MySQL" />
-  </component>
-</project>
